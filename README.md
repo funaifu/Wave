@@ -1,8 +1,7 @@
 # Wave波纹动画<br>
 <br>
-To get a Git project into your build:<br>
 <br>
-## Step 1. Add the JitPack repository to your build file<br>
+## 1，在build文件中添加
 <br>
 allprojects {<br>
 repositories {<br>
@@ -11,8 +10,8 @@ maven { <br>
     url 'https://jitpack.io' }<br>
      }}<br>
 <br>    
-## Step 2. Add the dependency<br>
+## 2然后在build文件的dependencies里边添加
 <br>
-dependencies{<br>
-	        compile 'com.github.funaifu:Wave:1.0'<br>
-    }
+compile 'com.github.funaifu:Wave:1.0'<br>
+<br>
+这样就可以使用该控件了。
