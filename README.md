@@ -31,6 +31,16 @@ dependencies {
 WaveView.start();
 ```
 就能播放水波纹动画了。
+### 属性说明：
+```xml
+/**
+ * <attr name="wave_stroke_color" format="color"/> 波的边框颜色
+ * <attr name="wave_stroke_width" format="dimension"/> 波的边框宽度
+ * <attr name="wave_crest" format="dimension"/> 波峰高度
+ * <attr name="wave_length" format="dimension"/> 波长
+ * <attr name="wave_duration" format="integer"/> 波的动画时间
+ */
+```
 
 
 
