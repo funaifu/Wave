@@ -41,6 +41,7 @@ WaveView.start();
  * <attr name="wave_duration" format="integer"/> 波的动画时间
  */
 ```
-[![效果图](https://github.com/funaifu/Wave/blob/master/Untitled.gif "效果图")](https://github.com/funaifu/Wave/blob/master/Untitled.gif "效果图")
+### 效果图如下：
+[![水波纹动画效果图](https://github.com/funaifu/Wave/blob/master/Untitled.gif "水波纹动画效果图")](https://github.com/funaifu/Wave/blob/master/Untitled.gif "水波纹动画效果图")
 
 
